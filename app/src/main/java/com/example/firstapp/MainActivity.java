@@ -14,6 +14,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import model.Photos;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -52,6 +54,11 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, RegisterActivity.class);
             startActivity(intent);
         }
+
+    public void showPhotosList(View view){
+        Intent intent = new Intent(this, ListPhotoActivity.class);
+        startActivity(intent);
+    }
 
         public boolean onCreateOptionsMenu(Menu menu){
             //inflate the menu; menambahkan action bar jika tersedia

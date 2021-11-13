@@ -10,4 +10,6 @@
     <string name="save">Simpan</string>
     <string name="text_agreement">Saya setuju dengan ToS</string>
     <string name="text_info">Form Pendaftaran</string>
+    <string name="list_photos">List Foto</string>
+    <string name="edit_message">Edit Pesan</string>
 </resources>

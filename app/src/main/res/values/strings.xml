@@ -9,4 +9,6 @@
     <string name="save">save</string>
     <string name="text_agreement">I agree to ToS</string>
     <string name="text_info">Registration Form</string>
+    <string name="list_photos">Photos list</string>
+    <string name="edit_message">Edit Message</string>
 </resources>
