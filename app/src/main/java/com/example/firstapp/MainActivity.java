@@ -37,4 +37,9 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, CustomListActivity.class);
             startActivity(intent);
         }
+
+        public void showFormRegister(View view){
+            Intent intent = new Intent(this, RegisterActivity.class);
+            startActivity(intent);
+        }
     }

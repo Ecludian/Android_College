@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplikasiPertama_19.61.0155</string>
+    <string name="editMessage">Masukan Pesan</string>
+    <string name="buttonSend">Kirim</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email_address">Alamat Email</string>
+    <string name="phone_number">Nomor HP</string>
+    <string name="password">Kata Sandi</string>
+    <string name="save">Simpan</string>
+    <string name="text_agreement">Saya setuju dengan ToS</string>
+    <string name="text_info">Form Pendaftaran</string>
+</resources>
